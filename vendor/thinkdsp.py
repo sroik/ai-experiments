@@ -1,4 +1,4 @@
-"""This file contains code used in "Think DSP",
+de"""This file contains code used in "Think DSP",
 by Allen B. Downey, available from greenteapress.com
 
 Copyright 2013 Allen B. Downey
@@ -7,7 +7,6 @@ License: MIT License (https://opensource.org/licenses/MIT)
 
 import copy
 import math
-
 import numpy as np
 import random
 import scipy
@@ -17,7 +16,7 @@ import subprocess
 import warnings
 from PIL import Image
 
-from fractions import gcd
+# from fractions import gcd
 from wave import open as open_wave
 from scipy.io import wavfile
 
